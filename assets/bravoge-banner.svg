@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Bravoge Jeremy</title>
+  <desc id="description">A dark blue technology-inspired banner with the words Think, Build, Innovate, Transform.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#102840"/>
+      <stop offset="1" stop-color="#123e52"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1010 45) rotate(135) scale(520 430)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#9bdcf2" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+  <circle cx="1020" cy="180" r="132" fill="none" stroke="#67e8f9" stroke-opacity=".18" stroke-width="1.5"/>
+  <circle cx="1020" cy="180" r="98" fill="none" stroke="#67e8f9" stroke-opacity=".2" stroke-width="1.5"/>
+  <circle cx="1020" cy="180" r="64" fill="#67e8f9" fill-opacity=".08" stroke="#67e8f9" stroke-opacity=".36" stroke-width="1.5"/>
+  <path d="M1020 48v264M888 180h264M927 87l186 186m0-186L927 273" stroke="#67e8f9" stroke-opacity=".14"/>
+  <circle cx="1020" cy="180" r="8" fill="#67e8f9"/>
+  <path d="M86 78h44M86 78v44M1114 282h-44m44 0v-44" fill="none" stroke="#67e8f9" stroke-opacity=".7" stroke-width="2"/>
+  <text x="104" y="146" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="5">SOFTWARE ENGINEER · TECHNOLOGY INNOVATOR</text>
+  <text x="100" y="218" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="1">BRAVOGE</text>
+  <text x="104" y="258" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="22">Bravoge Jeremy</text>
+  <path d="M104 290h420" stroke="#67e8f9" stroke-opacity=".65" stroke-width="2"/>
+  <text x="104" y="321" fill="#a5f3fc" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="3">THINK  ·  BUILD  ·  INNOVATE  ·  TRANSFORM</text>
+</svg>
