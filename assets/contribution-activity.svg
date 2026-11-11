@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title description">
+  <title id="title">Ideas into impact</title>
+  <desc id="description">A custom illustration showing ideas flowing through code into useful solutions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07111f"/>
+      <stop offset="1" stop-color="#123e52"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="230" rx="22" fill="url(#bg)"/>
+  <path d="M0 180h1000M0 130h1000M0 80h1000" stroke="#bae6fd" stroke-opacity=".07"/>
+  <text x="54" y="71" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">THE BUILDING PROCESS</text>
+  <text x="54" y="112" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Ideas into impact</text>
+  <text x="54" y="145" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="15">Curiosity starts it. Thoughtful engineering makes it useful.</text>
+  <path d="M550 163c58 0 58-72 116-72s58 42 116 42 58-78 116-78" fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M550 164h348" fill="none" stroke="#67e8f9" stroke-opacity=".14" stroke-width="1"/>
+  <g fill="#07111f" stroke="#67e8f9" stroke-width="3">
+    <circle cx="550" cy="163" r="8"/>
+    <circle cx="666" cy="91" r="8"/>
+    <circle cx="782" cy="133" r="8"/>
+    <circle cx="898" cy="55" r="8"/>
+  </g>
+  <g fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">
+    <text x="550" y="198" text-anchor="middle">IDEA</text>
+    <text x="666" y="198" text-anchor="middle">CODE</text>
+    <text x="782" y="198" text-anchor="middle">REFINE</text>
+    <text x="898" y="198" text-anchor="middle">IMPACT</text>
+  </g>
+</svg>

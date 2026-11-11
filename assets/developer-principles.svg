@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title description">
+  <title id="title">Build with purpose</title>
+  <desc id="description">Three principles: build thoughtfully, solve real problems, and share what you learn.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07111f"/>
+      <stop offset="1" stop-color="#123e52"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="220" rx="22" fill="url(#bg)"/>
+  <text x="48" y="58" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3">WHAT GUIDES MY WORK</text>
+  <text x="48" y="94" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">Build with purpose</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="48" y="124" width="280" height="58" rx="12" fill="#0b1c2b" stroke="#67e8f9" stroke-opacity=".25"/>
+    <rect x="360" y="124" width="280" height="58" rx="12" fill="#0b1c2b" stroke="#67e8f9" stroke-opacity=".25"/>
+    <rect x="672" y="124" width="280" height="58" rx="12" fill="#0b1c2b" stroke="#67e8f9" stroke-opacity=".25"/>
+    <circle cx="76" cy="153" r="6" fill="#67e8f9"/>
+    <circle cx="388" cy="153" r="6" fill="#67e8f9"/>
+    <circle cx="700" cy="153" r="6" fill="#67e8f9"/>
+    <text x="94" y="159" fill="#e2e8f0" font-size="15" font-weight="600">Build thoughtfully</text>
+    <text x="406" y="159" fill="#e2e8f0" font-size="15" font-weight="600">Solve real problems</text>
+    <text x="718" y="159" fill="#e2e8f0" font-size="15" font-weight="600">Share what you learn</text>
+  </g>
+</svg>
