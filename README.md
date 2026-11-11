@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Bravoge Jeremy (BRAVOGE)
+#  Hey, I'm Bravoge Jeremy (BRAVOGE)
 
 ### Full-Stack Software Engineer | Problem Solver | Technology Enthusiast
 
