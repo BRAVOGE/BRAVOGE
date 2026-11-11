@@ -1,34 +1,37 @@
-![BRAVOGE - Turning Ideas Into Impact](https://raw.githubusercontent.com/BRAVOGE/BRAVOGE/main/Bravoge_%20Turning%20Ideas%20Into%20Impact.png)
+ 
+<h1 align="center">Hey, I'm Bravoge Jeremy 👋</h1>
 
-<h1 align="center">Hey, I'm Bravoge Jeremy </h1>
+<h3 align="center">BRAVOGE | Software Engineer | Technology Innovator</h3>
 
-<h3 align="center">Full-Stack Software Engineer | Problem Solver | Technology Enthusiast</h3>
+<p align="center">
+  <a href="https://github.com/BRAVOGE">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Creative+Programmer;Systems+Developer;Technology+Innovator;Problem+Solver;Think.+Build.+Innovate.+Transform." alt="Animated Introduction"/>
+  </a>
+</p>
 
 <p align="center">
   <strong>Building technology that solves real-world problems.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/BRAVOGE">
-    <img src="https://komarev.com/ghpvc/?username=BRAVOGE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Kenya-green?style=flat" alt="Kenya"/>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=flat" alt="Full Stack Development"/>
+  <img src="https://komarev.com/ghpvc/?username=BRAVOGE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Location-Kenya-16A34A?style=flat&logo=googlemaps&logoColor=white" alt="Kenya"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0284C7?style=flat" alt="Development"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a software developer from Kenya passionate about building meaningful digital experiences, scalable applications, and technology-driven solutions.
+I'm Bravoge Jeremy, a software developer from Kenya passionate about building meaningful digital experiences, scalable applications, and technology-driven solutions.
 
 My programming journey began in 2022 when I started learning HTML and CSS using a smartphone. What started as curiosity gradually developed into a serious interest in software engineering, problem-solving, and building systems that make a difference.
 
-Today, I work across frontend development, backend engineering, database management, API development, and application deployment.
+Today, I explore frontend development, backend engineering, database management, API development, system architecture, and application deployment.
 
-I enjoy transforming ideas into practical solutions, exploring emerging technologies, collaborating with other developers, and continuously improving my engineering skills.
+I enjoy transforming ideas into practical solutions, exploring emerging technologies, collaborating with developers, and continuously improving my engineering skills.
 
-**My philosophy:** Technology should not just look impressive; it should solve problems, simplify processes, and create opportunities.
+I believe technology should not just look impressive; it should solve problems, simplify processes, and create opportunities.
 
 ---
 
@@ -40,7 +43,7 @@ I enjoy transforming ideas into practical solutions, exploring emerging technolo
 - **Database Engineering:** Designing relational databases and managing application data.
 - **System Development:** Creating management systems for education and organizational operations.
 - **Deployment & DevOps:** Managing Git workflows, cloud hosting, and application deployment.
-- **Technology Exploration:** Exploring mobile development, robotics, automation, and AI.
+- **Technology Exploration:** Exploring mobile development, robotics, automation, and artificial intelligence.
 
 ---
 
@@ -48,45 +51,55 @@ I enjoy transforming ideas into practical solutions, exploring emerging technolo
 
 ### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
 ### Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
+</p>
 
 ### Databases & Backend Services
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-### Development Tools & Deployment
+### Tools, Platforms & Deployment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
 ## 🤖 AI-Assisted Development
 
-I explore AI-powered development tools to improve productivity, accelerate development workflows, understand complex codebases, and experiment with new ideas.
+I explore AI-powered development tools to improve productivity, understand complex codebases, accelerate workflows, and experiment with new ideas.
 
 ### Familiar With
 
-![Google Antigravity](https://img.shields.io/badge/Antigravity-181818?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-181818?style=for-the-badge&logo=cursor&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/✦_Antigravity-181818?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/◈_OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-181818?style=for-the-badge&logoColor=white"/>
+</p>
 
 **My approach:** AI is a development assistant, not a replacement for engineering knowledge. I focus on understanding generated code, debugging, architecture, and building reliable solutions.
 
@@ -138,7 +151,7 @@ I'm also interested in:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BRAVOGE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="BRAVOGE GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BRAVOGE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRAVOGE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
@@ -151,7 +164,13 @@ I'm also interested in:
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BRAVOGE&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="BRAVOGE GitHub Contribution Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BRAVOGE&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
+</p>
+
+### Contribution Overview
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/16a34a/BRAVOGE" width="100%" alt="GitHub Contribution Tiles"/>
 </p>
 
 ---
@@ -159,7 +178,7 @@ I'm also interested in:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BRAVOGE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Profile Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BRAVOGE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Achievements"/>
 </p>
 
 ---
@@ -178,6 +197,12 @@ I'm always interested in connecting with developers, designers, innovators, and 
   <a href="https://teksoft.co.ke">
     <img src="https://img.shields.io/badge/Teksoft-Technology-0078D4?style=for-the-badge"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/Jeremybravoge">Twitter / X</a> •
+  <a href="https://instagram.com/sys.deve">Instagram</a> •
+  <a href="https://www.facebook.com/profile.php?id=100094417877954">Facebook</a>
 </p>
 
 <p align="center">
