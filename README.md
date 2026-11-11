@@ -1,8 +1,12 @@
-#  Hey, I'm Bravoge Jeremy (BRAVOGE)
+![BRAVOGE - Turning Ideas Into Impact](https://raw.githubusercontent.com/BRAVOGE/BRAVOGE/main/Bravoge_%20Turning%20Ideas%20Into%20Impact.png)
 
-### Full-Stack Software Engineer | Problem Solver | Technology Enthusiast
+<h1 align="center">Hey, I'm Bravoge Jeremy 👋</h1>
 
-**Building technology that solves real-world problems.**
+<h3 align="center">Full-Stack Software Engineer | Problem Solver | Technology Enthusiast</h3>
+
+<p align="center">
+  <strong>Building technology that solves real-world problems.</strong>
+</p>
 
 I'm a software developer from Kenya with a passion for building meaningful digital experiences, scalable applications, and technology-driven solutions.
 
@@ -29,6 +33,7 @@ I believe technology should not just look impressive; it should solve problems, 
 ## 💻 Technology Stack
 
 ### Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,16 +41,19 @@ I believe technology should not just look impressive; it should solve problems, 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
+
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
 ### Databases & Backend Services
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools, Platforms & Deployment
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -102,11 +110,17 @@ I enjoy learning, experimenting, documenting ideas, and collaborating with peopl
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRAVOGE&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BRAVOGE&show_icons=true&theme=tokyonight&hide_border=true" alt="BRAVOGE GitHub Statistics" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BRAVOGE&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRAVOGE&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BRAVOGE&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BRAVOGE&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
@@ -125,6 +139,8 @@ I'm always interested in connecting with developers, designers, innovators, and 
 
 > Don't just learn technology. Understand it, experiment with it, build with it, and use it to make a difference.
 
-**BRAVOGE — Think. Build. Innovate. Transform.**
+<h3 align="center">BRAVOGE — Think. Build. Innovate. Transform.</h3>
 
-*Every line of code is another opportunity to create something meaningful.*
+<p align="center">
+  <em>Every line of code is another opportunity to create something meaningful.</em>
+</p>
