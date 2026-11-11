@@ -1,6 +1,6 @@
 ![BRAVOGE - Turning Ideas Into Impact](https://raw.githubusercontent.com/BRAVOGE/BRAVOGE/main/Bravoge_%20Turning%20Ideas%20Into%20Impact.png)
 
-<h1 align="center">Hey, I'm Bravoge Jeremy 👋</h1>
+<h1 align="center">Hey, I'm Bravoge Jeremy </h1>
 
 <h3 align="center">Full-Stack Software Engineer | Problem Solver | Technology Enthusiast</h3>
 
